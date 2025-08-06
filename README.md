@@ -11,5 +11,6 @@ Later:
 5. Android 4-1 support (p1.5)
 
 # More updates later
-1. 25.*.*p2.*
-2. 26.*.*p4.*
+1. 25.*.*p2.**
+2. 25.12.*p3.**
+3. 26.*.*p4.**
